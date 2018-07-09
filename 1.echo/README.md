@@ -128,7 +128,7 @@ echo `ls /` > "what's in root"
 
 
 ![echo](https://raw.githubusercontent.com/derder9527/linuxCommand/master/1.echo/echo_demo.gif)
-        https://raw.githubusercontent.com/derder9527/shell-script-practice/master/7.if-then-else/if-then-else_demo.gif
+        
 
 
 
