@@ -46,6 +46,29 @@ echo 'just $var1'
   ```
 ---
 
+- 想要在echo字串內換行
+
+  ```bash
+  echo -e "hello \n world"
+  ```
+
+  > **-e** enable interpretation of backslash escapes 開始跳脫字元模式(預設是關閉) [echo man page](https://linux.die.net/man/1/echo)
+  >
+  > **\n** 換行
+
+  - output
+
+    ```b
+    hello 
+     world
+    ```
+
+    
+
+---
+
+
+
 - 輸出兩個以上變數
 ```
 var1="a string"
