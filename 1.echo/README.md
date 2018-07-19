@@ -8,7 +8,7 @@ echo "a string"
   - output
   ```
   a string
-  "a string"
+  a string
   ```
 ---
 
@@ -59,11 +59,11 @@ echo 'just $var1'
   - output
 
     ```b
-    hello 
+    hello
      world
     ```
 
-    
+
 
 ---
 
@@ -151,7 +151,7 @@ echo `ls /` > "what's in root"
 
 
 ![echo](https://raw.githubusercontent.com/derder9527/linuxCommand/master/1.echo/echo_demo.gif)
-        
+
 
 
 
